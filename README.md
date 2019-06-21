@@ -1,5 +1,4 @@
-# basic_flutter_app
-
+# Flutter Demo App
 Demo Flutter project. Using QR code, animations
 
 ## Getting Started
