@@ -1,0 +1,1 @@
+http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=%7B%0A%22name%22%3A%22Buddy%22%2C%0A%22location%22%3A%22Vancouver%2C+CA%22%2C%0A%22description%22%3A%22Self+proclaimed+human+lover.%22%0A%7D&qzone=1&margin=0&size=400x400&ecc=L
